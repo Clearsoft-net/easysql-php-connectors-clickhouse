@@ -38,5 +38,6 @@
         "psr-4": {
             "Clearsoft\\EasySQL\\Connectors\\ClickHouse\\Tests\\": "tests/"
         }
-    }
+    },
+    "abandoned": "clearsoft/easysql-connectors"
 }
